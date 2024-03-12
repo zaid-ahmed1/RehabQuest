@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/OutOfCirculation/Scene/MainMenu.unity
+    guid: bba08a059b387984999e3bad8a27585a
+  - enabled: 1
+    path: Assets/OutOfCirculation/Scene/WitchShop.unity
+    guid: ac00d60f25101d2468d45061dee211f7
+  - enabled: 1
+    path: Assets/OutOfCirculation/Scene/Streets.unity
+    guid: 3d672a40cf56874438b59a2a5392123c
+  - enabled: 1
+    path: Assets/OutOfCirculation/Scene/Lib.unity
+    guid: a4fc3ce79878d9247ac1ecaf111f9f39
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 59d6b46ac6325ae428a98e0998d5fa6d, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 118d05b67a38f0740a08e424e353b9d1, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 706ff110778ba384ca6cf7b4f2bbda97, type: 2}
