@@ -17,7 +17,7 @@ GameObject:
   - component: {fileID: 5705934846385872949}
   - component: {fileID: 5705934846385872948}
   m_Layer: 0
-  m_Name: New Prefab
+  m_Name: XR OG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
