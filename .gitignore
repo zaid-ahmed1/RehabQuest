@@ -76,3 +76,5 @@ secrets.json
 *.csproj
 
 Assets/Plugins
+
+Assets/Scripts/WriteToS3.cs
