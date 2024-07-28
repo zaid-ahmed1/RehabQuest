@@ -1,3 +1,5 @@
 {
-	"ooo": "aaa"
+    "AGE": 25,
+    "NAME": "John",
+    "ISCOMPLETED": false
 }
