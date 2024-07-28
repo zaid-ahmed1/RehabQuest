@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class Timer : MonoBehaviour
 {
-    private float startTime;
-    private float timer;
+    private static float startTime;
+    private static float timer;
 
     //private float lastSecondPrinted = 0f; // Track the last second printed
 
@@ -31,7 +31,7 @@ public class Timer : MonoBehaviour
         }
     }
 
-    public int getTime() {
+    public static int getTime() {
         return Mathf.RoundToInt(timer);
     }
 
